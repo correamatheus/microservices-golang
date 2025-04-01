@@ -36,11 +36,20 @@ This is a personal project developed in **Go**, aimed at practicing the fundamen
 
 ## 🔧 Technologies Used
 
-- Golang
-- Docker
-- gRPC
-- REST API
-
+- Introduction to microservices
+- RESTFul microservices
+- gRPC microservices
+- Packaging applications with Docker
+- Testing microservice
+- Continuous Delivery
+- Observability
+- Using Kubernetes
+- Debugging
+- Security
+- Asynchronous microservices
+- Caching
+- Microservice reliability using a Service Mesh
+  
 ## 🛠️ How to Run the Project
 
 1. Clone the repository:
